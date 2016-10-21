@@ -52,25 +52,25 @@
 </v>
 <v t="leo.20161021100226.23"><vh>github intro</vh></v>
 <v t="leo.20161021100226.24"><vh>fork 與 pull requests</vh></v>
-<v t="leo.20161021100226.25" a="E"><vh>投影片</vh>
+<v t="leo.20161021100226.25"><vh>投影片</vh>
 <v t="leo.20161021100226.26" a="E"><vh>使用 iframe 嵌入影片連節</vh>
 <v t="leo.20161021100226.27"><vh>iframe 導入影片</vh></v>
 </v>
 <v t="leo.20161021100226.28"><vh>向下投影片</vh></v>
 </v>
-<v t="leo.20161021100226.29"><vh>Markdown 投影片</vh>
+<v t="leo.20161021100226.29" a="E"><vh>Markdown 投影片</vh>
 <v t="leo.20161021100226.30"><vh>利用 MD 寫內容</vh></v>
 </v>
 <v t="leo.20161021100226.31"><vh>Markdown 投影片</vh>
 <v t="leo.20161021100226.32"><vh>MD 投影片內容</vh></v>
 </v>
-<v t="leo.20161021100226.33"><vh>Markdown 投影片</vh>
+<v t="leo.20161021100226.33" a="E"><vh>Markdown 投影片</vh>
 <v t="leo.20161021100226.34"><vh>MD 投影片內容</vh></v>
 </v>
-<v t="leo.20161021100226.35"><vh>Markdown 投影片</vh>
+<v t="leo.20161021100226.35" a="E"><vh>Markdown 投影片</vh>
 <v t="leo.20161021100226.36"><vh>MD 投影片內容</vh></v>
 </v>
-<v t="leo.20161021100226.37"><vh>Markdown 投影片</vh>
+<v t="leo.20161021100226.37" a="E"><vh>Markdown 投影片</vh>
 <v t="leo.20161021100226.38"><vh>MD 投影片內容</vh></v>
 </v>
 <v t="leo.20161021100226.39"><vh>引用程式碼</vh></v>
@@ -731,7 +731,7 @@ apply broader style changes, like switching the page background.
 
 						
 </t>
-<t tx="leo.20161021100226.8"># 2016Fall CADPB 課程
+<t tx="leo.20161021100226.8"># 40423204 課程
 
 ### THE HTML PRESENTATION FRAMEWORK
 
